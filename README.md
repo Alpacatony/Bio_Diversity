@@ -1,7 +1,7 @@
-### Project Title: Bio Diversity Project
+# Project Title: Bio Diversity Project
 ## File: Bio_Diversity Project.ipynb
-# Description:
+### Description:
 A project on analysing different groups of animals and their conservation status and combining two datas to help observation of foot and mouth disease in different species of sheep from different parks. I start with a .csv file, clean the data, structure the data a few times with different intended purposes and analyze the data.
 
-# Tools:
+### Tools:
 Jupyter labs with python, pandas, numpy, matplotlib, and scipy.stats
